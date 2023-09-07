@@ -1,0 +1,18 @@
+@import './assets/style/colors';
+@import './assets/style/fonts';
+
+body {
+    counter-reset: section;
+    background-color: $d;
+    overflow-y: overlay;
+}
+
+
+h1 {
+    display: flex;
+    align-items: center;
+    color: lightblue;
+    margin-left: 30%;
+    text-shadow: 0.3rem 0.3rem black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}

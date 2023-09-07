@@ -1,0 +1,272 @@
+[
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "source.topicname"
+      },
+      {
+        "flowId": "2",
+        "type": "destination",
+        "endpoint": "Topic",
+        "name": "destination.topicname"
+      }
+    ],
+    "routers": null,
+    "key": null
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "source.topicname"
+      },
+      {
+        "flowId": "2",
+        "type": "destination",
+        "endpoint": "Topic",
+        "name": "destination.topicname"
+      }
+    ],
+    "routers": null,
+    "key": null
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "source.topicname"
+      },
+      {
+        "flowId": "2",
+        "type": "destination",
+        "endpoint": "Topic",
+        "name": "destination.topicname"
+      }
+    ],
+    "routers": null,
+    "key": "3"
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "source.topicname"
+      },
+      {
+        "flowId": "2",
+        "type": "destination",
+        "endpoint": "Topic",
+        "name": "destination.topicname"
+      }
+    ],
+    "routers": null,
+    "key": "3"
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "consumertopic"
+      },
+      {
+        "flowId": "2",
+        "type": "Destination",
+        "endpoint": "Topic",
+        "name": "producertopic"
+      }
+    ],
+    "routers": null,
+    "key": "3"
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "consumertopic"
+      },
+      {
+        "flowId": "2",
+        "type": "Destination",
+        "endpoint": "Topic",
+        "name": "producertopic"
+      }
+    ],
+    "routers": null,
+    "key": "3"
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "consumertopic"
+      },
+      {
+        "flowId": "2",
+        "type": "Destination",
+        "endpoint": "Topic",
+        "name": "producertopic"
+      }
+    ],
+    "routers": null,
+    "key": "3"
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "consumertopic"
+      },
+      {
+        "flowId": "2",
+        "type": "Destination",
+        "endpoint": "Topic",
+        "name": "producertopic"
+      }
+    ],
+    "routers": null,
+    "key": "3"
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "consumertopic"
+      },
+      {
+        "flowId": "2",
+        "type": "Destination",
+        "endpoint": "Topic",
+        "name": "producertopic"
+      }
+    ],
+    "routers": null,
+    "key": "5"
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "consumertopic"
+      },
+      {
+        "flowId": "2",
+        "type": "Destination",
+        "endpoint": "Topic",
+        "name": "producertopic"
+      }
+    ],
+    "routers": null,
+    "key": "5"
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "consumertopic"
+      },
+      {
+        "flowId": "2",
+        "type": "Destination",
+        "endpoint": "Topic",
+        "name": "producertopic"
+      }
+    ],
+    "routers": null,
+    "key": "5"
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": null,
+        "endpoint": null,
+        "name": null
+      },
+      {
+        "flowId": "2",
+        "type": null,
+        "endpoint": null,
+        "name": null
+      }
+    ],
+    "routers": null,
+    "key": null
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "source.topicname"
+      },
+      {
+        "flowId": "2",
+        "type": "destination",
+        "endpoint": "router",
+        "name": null
+      }
+    ],
+    "routers": null,
+    "key": null
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "source.topicname"
+      },
+      {
+        "flowId": "2",
+        "type": "destination",
+        "endpoint": "router",
+        "name": null
+      }
+    ],
+    "routers": null,
+    "key": null
+  },
+  {
+    "flows": [
+      {
+        "flowId": "1",
+        "type": "Source",
+        "endpoint": "Topic",
+        "name": "source.topicname"
+      },
+      {
+        "flowId": "2",
+        "type": "destination",
+        "endpoint": "router",
+        "name": null
+      }
+    ],
+    "routers": null,
+    "key": null
+  }
+]

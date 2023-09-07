@@ -1,0 +1,19 @@
+.td {
+    vertical-align: top;
+}
+
+.submit-container {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: flex-end;
+    padding: 20px;
+}
+
+.connection-type-dropdown {
+    margin: 1em;
+}
+
+.blank-top {
+    padding: 3em
+}

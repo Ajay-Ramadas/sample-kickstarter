@@ -1,0 +1,11 @@
+@import '../../../assets/style/colors';
+
+.header-heading {
+    margin-right: 2rem;
+    display: flex;
+    font-family: monospace;
+    font-weight: 700;
+    letter-spacing: '.3rem';
+    color: $e;
+    text-decoration: none;
+}
